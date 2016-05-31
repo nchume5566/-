@@ -1,0 +1,14 @@
+body 
+{
+	background-image:url(background.jpg);
+	background-position: top ;
+}
+h1 
+{
+	background-color: red;
+	
+ }
+ a {background-color:yellow}
+
+p {background-color: white;}
+ body {font-family: Cursive;}
